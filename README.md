@@ -21,7 +21,6 @@ Personal Expense Tracker is a comprehensive expense management system built with
 ## Features
 
 - User Registration and Token-Based Authentication  
-- Secure Password Reset via Email  
 - Modern, Responsive UI with Full-Screen Dashboard  
 - Create, Read, Update, Delete (CRUD) Operations on Expenses  
 - Filter and View Expenses by Categories and Date  
